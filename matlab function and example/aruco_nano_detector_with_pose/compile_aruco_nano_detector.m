@@ -1,0 +1,1 @@
+mexOpenCV aruco_nano_detector.cpp
